@@ -1,0 +1,4 @@
+MACHINE_LISTE=machines
+IF=enp0s3
+DOMAINE_IP="ubo.local"
+

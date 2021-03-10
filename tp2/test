@@ -1,0 +1,4 @@
+
+192.168.56.101 serveur serveur.ubo.local
+192.168.56.102 client client.ubo.local
+192.168.56.103 esclave esclave.ubo.local
